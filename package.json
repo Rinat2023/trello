@@ -1,7 +1,7 @@
 {
   "name": "trello-project",
   "version": "0.1.0",
-  "homepage": "http://{Rinat2023}.github.io/{trello-project}",
+  "homepage": "http://Rinat2023.github.io/trello",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
