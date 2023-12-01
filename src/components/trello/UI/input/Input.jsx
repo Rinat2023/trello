@@ -1,5 +1,9 @@
 import React from "react";
 
 export const Input = () => {
-  return <div>Input</div>;
+  return (
+    <div>
+      <input type="text" />
+    </div>
+  );
 };
